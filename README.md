@@ -9,8 +9,13 @@
 - /map conventionname - Show a floorplan of a convention, if one exists. Example "/map cfz" or "/map confuzzled"
 - /sched conventionname - Responds with link to schedule of specified convention
 - /timeuntil conventionname - Responds with a countdown to the convention date, command is disabled in group chats
-
+- /dev - View info about the developer
+- /version - View bot version info
 ## Change Log
+
+### 30-04-22
+- Scotiacon supported
+- Fixed error in command logic
 
 ### 26-04-22
 - /list command deprecated in favour of /guide
